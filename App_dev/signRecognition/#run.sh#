@@ -1,0 +1,12 @@
+#!usr/bin/bash
+a=50;
+while [ 1 ]
+do
+ python detectWithWebCamera.py | awk '{ if( $1=="Turn" ){print "Decelerating Vehicle"; }}'
+ echo $a
+a =`expr $a - 10`
+if [ $a -gt 30 ]
+then
+    exit
+fi
+done
