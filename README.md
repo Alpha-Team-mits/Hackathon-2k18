@@ -3,15 +3,13 @@ MITS Hackathon git repo
 Smart Transportation Formal analysis and definition
 
 
-Basil Skaria  										   Siddharth S
-S4 CSE										          S4 CSE	
-Muthoot institute of technology and science		 Muthoot institute of technology and science
-Puthencruz										     Puthencruz
-
-Eldhose K A									       Georgy M Rajan 
-S4 CSE										           S4 CSE
-Muthoot institute of technology and science               Muthoot institute of technology and science
-Puthencruz									 	      Puthencruz
+Basil Skaria
+Siddharth S
+Eldhose K A
+Georgy M Rajan 
+S4 CSE 
+Muthoot institute of technology and science
+Puthencruz
 
 
 Abstract
